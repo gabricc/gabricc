@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I work as a DevOps engineer and I help to keep platforms scalable, engineers effective, and applications available!
+😄
+
 <!--
 **gabricc/gabricc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
