@@ -3,6 +3,9 @@
 I work as a DevOps engineer and I help to keep platforms scalable, engineers effective, and applications available!
 😄
 
+Articles:
+- [Scale down to zero with AWS ECS and CloudWatch](https://tech.slangapp.com/scale-down-to-zero-with-aws-ecs-and-cloudwatch-f0974f01da61)
+- [A little bit of K8S core concepts](https://www.linkedin.com/pulse/um-pouco-sobre-core-concepts-do-k8s-gabriel-carvalho/)
 <!--
 **gabricc/gabricc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
