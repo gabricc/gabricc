@@ -6,6 +6,7 @@ I work as a DevOps engineer and I help to keep platforms scalable, engineers eff
 Articles:
 - [Scale down to zero with AWS ECS and CloudWatch](https://tech.slangapp.com/scale-down-to-zero-with-aws-ecs-and-cloudwatch-f0974f01da61)
 - [A little bit of K8S core concepts](https://www.linkedin.com/pulse/um-pouco-sobre-core-concepts-do-k8s-gabriel-carvalho/)
+- [ClickHouse implementation - from a DevOps perspective](https://tech.slangapp.com/clickhouse-implementation-from-a-devops-perspective-87949dae166b)
 <!--
 **gabricc/gabricc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
